@@ -71,7 +71,7 @@ div.livros{
 }
 
 article {
-    padding: 50px;
+    padding: 5vh;
    
     
 }
@@ -81,8 +81,8 @@ div > p{
     background-color: rgba(0, 0, 0, 0.466);
     display: inline-block;
     position: absolute;
-    margin-top: 80px;
-    margin-left: 35px;
+    margin-top: 6vh;
+    margin-left: 4vw;
     padding: 10px;
     text-shadow: 1px 1px 0px black;
 }
